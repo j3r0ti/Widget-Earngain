@@ -1,6 +1,8 @@
 # Widget-Earngain
 
-[FR]
+
+[FR]<img width="354" height="182" alt="Imge solde python" src="https://github.com/user-attachments/assets/a1de7125-7a12-4d25-806a-67179d042495" />
+
 -
 Je cherchais une solution pour suivre les progres sur Earnapp et Honeygain depuis mon second écran sans avoir a ouvrir de page internet, j'ai donc demander un coup de main a une IA car je ne ai aucune base en codage. Le skript fonctionne sans soucis avec un timer de 1 heure +5 min pour Earnapp et un timer de 5 minutes pour Honeygain (ces valeur peuvent être modifier directement dans le main.pyw: attention a ne pas mettre de valeur trop petite pour ne pas spamer l'api). Pour trouver votre cookie earnapp, je vous conseil de passer par firefox, je n'ai pas réussi a trouver celui demander par l'ia pour le code python (le bon cookie se trouve dans l'initiateur "document" et comment par brd_cookie_consent=)
 Je pense qu'un connaisseur pourra refaire ce code pour une utilisation avec oauth de google
